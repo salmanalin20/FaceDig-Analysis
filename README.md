@@ -1,4 +1,4 @@
-# 👹FaceDig TPS — Analisis Geometrik Morfometrik Wajah👹
+# 😇 FaceDig TPS — Analisis Geometrik Morfometrik Wajah 😇 
 
 Analisis variasi bentuk wajah laki-laki dan perempuan menggunakan **geometric morphometrics** dari data landmark FaceDig AI.
 
