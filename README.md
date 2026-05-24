@@ -63,7 +63,7 @@ facedig-project/
 └── README.md                   # README.md
 ```
 
-**Format penamaan foto:**
+**Format penamaan foto 🧔🏻👩🏻 (PENTING):**
 - `L_` = Laki-laki (contoh: `L_Angkatan_NomorProbandus_SukuAsal.jpg`)
 - `P_` = Perempuan (contoh: `P_Angkatan_NomorProbandus_SukuAsal.jpg`)
 
@@ -133,6 +133,4 @@ jupyter notebook facedig_analisis.ipynb
 - Klingenberg, C.P. (2011). MorphoJ: an integrated software package for geometric morphometrics. *Molecular Ecology Resources*, 11(2), 353-357.
 
 ## 📝 Lisensi
-
-Project ini untuk keperluan akademik/riset.
-# FaceDig-Analysis
+Project ini untuk kepentingan akademik. Mohon digunakan dengan baik karena terdapat data wajah manusia (tidak untuk disalahgunakan).Wajah dikategorikan sebagai data pribadi yang bersifat spesifik, penggunaan tanpa izin melanggar Pasal 65 ayat (3) jo. Pasal 67 ayat (3), dengan ancaman pidana denda hingga Rp5 miliar.
