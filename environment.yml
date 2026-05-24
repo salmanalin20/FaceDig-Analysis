@@ -1,0 +1,19 @@
+name: facedig-morpho
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - scipy
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - seaborn
+  - tabulate
+  - pip
