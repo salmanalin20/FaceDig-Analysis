@@ -31,6 +31,7 @@ Visualisasi + Export CSV
 kemudian ketik perintah salah satu dibawah ini (sesuaikan):
 #### Batch Processing TPS Files
 ```bash
+pip install matplotlib
 python VisualisasiTPS.py
 ```
 #### Individual TPS File
@@ -73,6 +74,7 @@ facedig-project/
 
 ```bash
 conda env list
+conda update -n base -c defaults conda
 conda env create -f environment.yml
 conda activate facedig-morpho
 ```
